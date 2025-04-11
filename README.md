@@ -27,13 +27,6 @@ Você pode instalar todas as dependências com o seguinte comando:
 pip install -r requirements.txt
 ```
 
-## Instalação
-Clone o repositório:
-
-```bash
-git clone https://github.com/seuusuario/seurepositorio.git
-cd seurepositorio
-```
 
 ## Instale as dependências:
 
